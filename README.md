@@ -1,5 +1,3 @@
-Here's a concise README for your `Libft` project:
-
 ---
 
 # Libft
@@ -30,8 +28,8 @@ Libft is a custom C library that replicates standard C library functions along w
 
 1. Clone the repository: 
    ```bash
-   git clone <repository-url>
-   cd libft
+   git clone https://github.com/Bidiche49/Libft
+   cd Libft
    ```
 2. Compile the library:
    ```bash
@@ -43,7 +41,7 @@ Libft is a custom C library that replicates standard C library functions along w
 
 To compile your project with libft:
 ```bash
-gcc -Wall -Wextra -Werror -o your_program your_program.c -L. -lft
+gcc -Wall -Wextra -Werror -o <your_program> <your_program>.c -L. -lft
 ```
 
 ---
